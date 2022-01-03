@@ -1,0 +1,13 @@
+paleta de colores nueva tienda
+
+azul: hex  #013766 rgb 1, 55, 102
+rojo: hex  #cc0404 rgb 204, 4, 4
+negro grafito: hex #1c1c1c rgb 28, 28, 28
+
+rojo 2: hex #ac0e28
+
+azul 2: hex #264b77
+
+azul 3: hex #012e67
+
+azul 4: hex #024f94 logo
